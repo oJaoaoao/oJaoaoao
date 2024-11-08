@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @oJaoaoao
 - 👀 I’m interested in programming
-- 🌱 I just started to learn lua
 - I know a bit of english
 
 <!---
